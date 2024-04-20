@@ -59,3 +59,5 @@ Delta_Lake --> Code for Pulling data into Deltalake from Staging Layer
 
 ProjectDoc --> Brief Documentation of the ETL Pipeline
 
+ERD_DOCUMENT --> Details of Entity Relationship Diagram of the Project
+

@@ -48,3 +48,14 @@ Azure Databricks
 
 Azure Data Factory
 
+Prefixes of Files:
+-------------------
+
+Dim --> Code for Transforming Dimension Data
+
+Fact --> Code for Transforming Fact Data
+
+Delta_Lake --> Code for Pulling data into Deltalake from Staging Layer
+
+ProjectDoc --> Brief Documentation of the ETL Pipeline
+

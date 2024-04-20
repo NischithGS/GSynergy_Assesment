@@ -1,0 +1,1 @@
+# GSynergy_Assesment

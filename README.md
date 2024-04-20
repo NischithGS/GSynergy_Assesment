@@ -13,6 +13,7 @@ Process Overview
 3.Staging Layer in Azure Blob: Transformed data is loaded into Azure Blob storage, serving as the staging layer for further processing.
 
 4.Data Movement with Azure Data Factory (ADF): ADF pipelines are utilized to orchestrate data movement from the staging layer in Azure Blob storage to an Azure SQL database for analysis. This involves using activities such as GetMetadata and ForEach to efficiently load all data at once.
+
 5.Pipeline Creation: Pipelines are created within ADF to automate the entire ETL process, ensuring seamless and efficient data movement.
 
 6.Data Storage for Analytics: Staged data is stored in Delta Lake within Databricks. Delta Lake provides reliability, performance, and concurrency for analytics workloads.
